@@ -1,4 +1,13 @@
 header{
-background-color: #0C0C0E;
-color: white;
+background-color: #1d1d20;
+color: rgb(238, 219, 219);
+display: flex;
+justify-content: space-between;
+}
+.imagem {
+
+    
+width: 20%;
+
+
 }
