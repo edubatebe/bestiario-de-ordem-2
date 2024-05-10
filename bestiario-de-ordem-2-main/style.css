@@ -1,0 +1,45 @@
+
+*{
+margin: 0;
+padding: 0;
+
+}
+
+
+
+header{
+background-color:#1e1e20;
+color: rgb(238, 219, 219);
+display: flex;
+justify-content: space-around;
+padding: 24px;
+}
+.imagem {
+width: 25%;
+
+
+}
+.lista{
+
+display: inline-block;
+margin: 0px 16px;
+font-size: 24px;
+
+}
+.sangue{
+    background-image:#1e1e20;
+    color:white;
+    display: flex;
+    justify-content: space-around;
+    align-items: end;
+    padding: 24px 0;
+
+    
+}
+.sangue-div-conteudo{
+
+    width: 35%;
+}
+.sangue-titulo{
+padding: 24px 24px;
+}
